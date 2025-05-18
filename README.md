@@ -51,7 +51,6 @@ Feel free to explore the files for more information.
 ## Contact Me
 
 - Email: raosachin8437@gmail.com 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - GitHub: [github.com/yourusername](https://github.com/Sachin8347)  
 
 ---
